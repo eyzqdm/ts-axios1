@@ -1,0 +1,21 @@
+{
+  "name": "ts-axios",
+  "version": "1.0.0",
+  "description": "ts重构axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "live-server ./ --port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyzqdm/ts-axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyzqdm/ts-axios/issues"
+  },
+  "homepage": "https://github.com/eyzqdm/ts-axios#readme"
+}
